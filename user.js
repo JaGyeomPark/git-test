@@ -4,6 +4,7 @@ const users = [
   { name: "minsu", age: 1 },
   { name: "cheolsu", age: 20 },
   { name: "younghee", age: 30 },
+  { name: "mandeuk", age: 40 },
 ];
 
 function selectPet(name) {
