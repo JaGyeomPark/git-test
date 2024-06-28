@@ -1,1 +1,1 @@
-const pets = [{ name: "nabi" }];
+const pets = [{ name: "nabi" }, { name: "jjekjjeki" }];
