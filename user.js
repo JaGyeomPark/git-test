@@ -3,6 +3,7 @@ import { pets } from "./pet";
 const users = [
   { name: "minsu", age: 1 },
   { name: "cheolsu", age: 20 },
+  { name: "younghee", age: 30 },
 ];
 
 function selectPet(name) {
