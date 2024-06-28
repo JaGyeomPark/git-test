@@ -1,1 +1,1 @@
-const pets = [{ name: "nabi" }, { name: "jjekjjeki" }];
+export const pets = [{ name: "nabi" }, { name: "jjekjjeki" }];
