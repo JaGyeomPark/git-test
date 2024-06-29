@@ -14,3 +14,7 @@ function selectPet(name) {
 function feedPet(pet) {
   return `${pet.name}에게 밥을 줬습니다.`;
 }
+
+function walk(pet) {
+  return `${pet.name}은 기분이 좋습니다.`;
+}
